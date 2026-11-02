@@ -2,6 +2,9 @@
 
 A fully functional, real-time chat application built with the **VILT stack** (Vue, Inertia, Laravel, Tailwind). Users can create conversations, send messages, and see updates instantly without refreshing the page using WebSockets.
 
+![chatflow app screenshot]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ecbabae2-58c1-4482-9eb6-050fa6efc79c" />
+
+
 ## 🚀 Tech Stack
 *   **Backend:** Laravel 12
 *   **Frontend:** Vue 3 + Inertia.js + Tailwind CSS
